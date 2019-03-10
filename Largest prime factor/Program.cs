@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Common;
+using System;
 using System.Collections.Generic;
 
 namespace Largest_prime_factor
@@ -15,11 +16,12 @@ namespace Largest_prime_factor
                 {
                     delit.Add(i);                    
                 }                
-            }            
-            
+            }
+
+            var com = new CommonClass();
             foreach(var i in delit)
             {
-                if (CheckPrimeNumber(i))
+                if (com.CheckPrimeNumber(i))
                 {
                     Console.WriteLine(i);
                     break;
