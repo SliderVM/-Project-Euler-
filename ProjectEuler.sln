@@ -11,13 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest prime factor (3)", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest palindrome product", "Largest palindrome product\Largest palindrome product.csproj", "{77B84298-FBC4-44F4-927D-F465BF7F8357}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest multiple", "Smallest multiple\Smallest multiple.csproj", "{154119DD-FAC4-440F-A012-5B65EAE5A2F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smallest multiple", "Smallest multiple\Smallest multiple.csproj", "{154119DD-FAC4-440F-A012-5B65EAE5A2F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum square difference (6)", "Sum square difference (6)\Sum square difference (6).csproj", "{897B28C6-6909-4FC7-BAD4-6D5F5E03837F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum square difference (6)", "Sum square difference (6)\Sum square difference (6).csproj", "{897B28C6-6909-4FC7-BAD4-6D5F5E03837F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10001st prime (7)", "10001st prime (7)\10001st prime (7).csproj", "{35745C73-0F36-4AE5-B749-EE3C65A71EF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10001st prime (7)", "10001st prime (7)\10001st prime (7).csproj", "{35745C73-0F36-4AE5-B749-EE3C65A71EF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D35A3C0C-B559-41E9-B73B-1ADA2C0FDB39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{D35A3C0C-B559-41E9-B73B-1ADA2C0FDB39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest product in a series (8)", "Largest product in a series (8)\Largest product in a series (8).csproj", "{F8094553-D0EF-483F-BD50-F078533077CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Special Pythagorean triplet (9)", "Special Pythagorean triplet (9)\Special Pythagorean triplet (9).csproj", "{3F311DD2-D5B9-4E86-A1C0-FA982D861128}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summation of primes (10)", "Summation of primes (10)\Summation of primes (10).csproj", "{D3EC3450-8947-461C-8DF7-96E88CCB3742}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest product in a grid (11)", "Largest product in a grid (11)\Largest product in a grid (11).csproj", "{3E149305-F3C8-41B4-9ED6-E2FCFCE38610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highly divisible triangular number (12)", "Highly divisible triangular number (12)\Highly divisible triangular number (12).csproj", "{6D617D61-B531-4FA3-891F-9AD48EFC383F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +67,26 @@ Global
 		{D35A3C0C-B559-41E9-B73B-1ADA2C0FDB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D35A3C0C-B559-41E9-B73B-1ADA2C0FDB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D35A3C0C-B559-41E9-B73B-1ADA2C0FDB39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8094553-D0EF-483F-BD50-F078533077CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8094553-D0EF-483F-BD50-F078533077CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8094553-D0EF-483F-BD50-F078533077CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8094553-D0EF-483F-BD50-F078533077CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F311DD2-D5B9-4E86-A1C0-FA982D861128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F311DD2-D5B9-4E86-A1C0-FA982D861128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F311DD2-D5B9-4E86-A1C0-FA982D861128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F311DD2-D5B9-4E86-A1C0-FA982D861128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3EC3450-8947-461C-8DF7-96E88CCB3742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EC3450-8947-461C-8DF7-96E88CCB3742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EC3450-8947-461C-8DF7-96E88CCB3742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EC3450-8947-461C-8DF7-96E88CCB3742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E149305-F3C8-41B4-9ED6-E2FCFCE38610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E149305-F3C8-41B4-9ED6-E2FCFCE38610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E149305-F3C8-41B4-9ED6-E2FCFCE38610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E149305-F3C8-41B4-9ED6-E2FCFCE38610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D617D61-B531-4FA3-891F-9AD48EFC383F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D617D61-B531-4FA3-891F-9AD48EFC383F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D617D61-B531-4FA3-891F-9AD48EFC383F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D617D61-B531-4FA3-891F-9AD48EFC383F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
