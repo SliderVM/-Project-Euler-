@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summation of primes (10)", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest product in a grid (11)", "Largest product in a grid (11)\Largest product in a grid (11).csproj", "{3E149305-F3C8-41B4-9ED6-E2FCFCE38610}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highly divisible triangular number (12)", "Highly divisible triangular number (12)\Highly divisible triangular number (12).csproj", "{6D617D61-B531-4FA3-891F-9AD48EFC383F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Highly divisible triangular number (12)", "Highly divisible triangular number (12)\Highly divisible triangular number (12).csproj", "{6D617D61-B531-4FA3-891F-9AD48EFC383F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Large sum (13)", "Large sum (13)\Large sum (13).csproj", "{C5E5E641-6C15-4BAB-B184-6D0836DCD4E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Collatz sequence (14)", "Longest Collatz sequence (14)\Longest Collatz sequence (14).csproj", "{CD179817-24A0-4DB5-B1DA-CABE109ADC1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{6D617D61-B531-4FA3-891F-9AD48EFC383F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D617D61-B531-4FA3-891F-9AD48EFC383F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D617D61-B531-4FA3-891F-9AD48EFC383F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E5E641-6C15-4BAB-B184-6D0836DCD4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E5E641-6C15-4BAB-B184-6D0836DCD4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E5E641-6C15-4BAB-B184-6D0836DCD4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E5E641-6C15-4BAB-B184-6D0836DCD4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD179817-24A0-4DB5-B1DA-CABE109ADC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD179817-24A0-4DB5-B1DA-CABE109ADC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD179817-24A0-4DB5-B1DA-CABE109ADC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD179817-24A0-4DB5-B1DA-CABE109ADC1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
