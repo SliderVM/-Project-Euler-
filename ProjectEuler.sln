@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Collatz sequence (1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lattice paths (15)", "Lattice paths (15)\Lattice paths (15).csproj", "{61B0B2DE-9878-47DC-9A49-25E6CCD823E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power digit sum (16)", "Power digit sum (16)\Power digit sum (16).csproj", "{D4E2086E-63C8-4576-9853-73C8C73BADF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Power digit sum (16)", "Power digit sum (16)\Power digit sum (16).csproj", "{D4E2086E-63C8-4576-9853-73C8C73BADF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number letter counts (17)", "Number letter counts (17)\Number letter counts (17).csproj", "{A321C1DC-BF59-415A-82AE-7DD5980B273D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{D4E2086E-63C8-4576-9853-73C8C73BADF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E2086E-63C8-4576-9853-73C8C73BADF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E2086E-63C8-4576-9853-73C8C73BADF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A321C1DC-BF59-415A-82AE-7DD5980B273D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A321C1DC-BF59-415A-82AE-7DD5980B273D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A321C1DC-BF59-415A-82AE-7DD5980B273D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A321C1DC-BF59-415A-82AE-7DD5980B273D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
