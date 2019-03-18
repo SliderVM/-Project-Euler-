@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lattice paths (15)", "Latti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Power digit sum (16)", "Power digit sum (16)\Power digit sum (16).csproj", "{D4E2086E-63C8-4576-9853-73C8C73BADF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number letter counts (17)", "Number letter counts (17)\Number letter counts (17).csproj", "{A321C1DC-BF59-415A-82AE-7DD5980B273D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number letter counts (17)", "Number letter counts (17)\Number letter counts (17).csproj", "{A321C1DC-BF59-415A-82AE-7DD5980B273D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum path sum I (18)", "Maximum path sum I (18)\Maximum path sum I (18).csproj", "{CD1F4939-998B-4391-8753-3FF3AB258EF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{A321C1DC-BF59-415A-82AE-7DD5980B273D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A321C1DC-BF59-415A-82AE-7DD5980B273D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A321C1DC-BF59-415A-82AE-7DD5980B273D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1F4939-998B-4391-8753-3FF3AB258EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1F4939-998B-4391-8753-3FF3AB258EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1F4939-998B-4391-8753-3FF3AB258EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1F4939-998B-4391-8753-3FF3AB258EF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
