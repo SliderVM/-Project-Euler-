@@ -39,9 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Power digit sum (16)", "Pow
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number letter counts (17)", "Number letter counts (17)\Number letter counts (17).csproj", "{A321C1DC-BF59-415A-82AE-7DD5980B273D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum path sum I (18)", "Maximum path sum I (18)\Maximum path sum I (18).csproj", "{CD1F4939-998B-4391-8753-3FF3AB258EF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum path sum I (18)", "Maximum path sum I (18)\Maximum path sum I (18).csproj", "{CD1F4939-998B-4391-8753-3FF3AB258EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum path sum II (64)", "Maximum path sum II (64)\Maximum path sum II (64).csproj", "{893A3947-0A6D-44BA-B013-57F890BBC7EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum path sum II (64)", "Maximum path sum II (64)\Maximum path sum II (64).csproj", "{893A3947-0A6D-44BA-B013-57F890BBC7EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Sundays (19)", "Counting Sundays (19)\Counting Sundays (19).csproj", "{16B75B2F-4220-454C-89C8-90E29C4D01EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial digit sum (20)", "Factorial digit sum (20)\Factorial digit sum (20).csproj", "{938B4C0F-590F-441A-B189-2D217EB228A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{893A3947-0A6D-44BA-B013-57F890BBC7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{893A3947-0A6D-44BA-B013-57F890BBC7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{893A3947-0A6D-44BA-B013-57F890BBC7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B75B2F-4220-454C-89C8-90E29C4D01EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B75B2F-4220-454C-89C8-90E29C4D01EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B75B2F-4220-454C-89C8-90E29C4D01EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B75B2F-4220-454C-89C8-90E29C4D01EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938B4C0F-590F-441A-B189-2D217EB228A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938B4C0F-590F-441A-B189-2D217EB228A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938B4C0F-590F-441A-B189-2D217EB228A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938B4C0F-590F-441A-B189-2D217EB228A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

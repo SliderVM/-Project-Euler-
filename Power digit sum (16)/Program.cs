@@ -1,7 +1,9 @@
-﻿using System;
+﻿using Common;
+using System;
 using System.Collections;
 using System.Numerics;
 using System.Text;
+
 
 namespace Power_digit_sum__16_
 {
@@ -17,13 +19,9 @@ namespace Power_digit_sum__16_
             }
 
             var strNumber = number.ToString();
-            int res = 0;
-            foreach(var i in strNumber)
-            {
-                res += (int)char.GetNumericValue(i);
-            }
+            var common = new CommonClass();            
 
-            Console.WriteLine(res);
+            Console.WriteLine(common.GetDigitSum(strNumber));
             Console.ReadKey();
         }
     }
